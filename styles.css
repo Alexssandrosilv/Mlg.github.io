@@ -1,11 +1,1 @@
 /* css styles */
-
-
-/* Força tudo a ocupar a largura total */
-body, .page-columns, main.content, .content, .container, .container-fluid {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin: 0 auto !important;
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
-}
