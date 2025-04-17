@@ -1,1 +1,6 @@
 /* css styles */
+main.content {
+  max-width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
