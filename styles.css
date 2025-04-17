@@ -1,18 +1,11 @@
 /* css styles */
 
-/* Garante que o conteúdo principal ocupe toda a largura */
-main.content {
+
+/* Força tudo a ocupar a largura total */
+body, .page-columns, main.content, .content, .container, .container-fluid {
   max-width: 100% !important;
   width: 100% !important;
   margin: 0 auto !important;
-  padding-left: 2rem !important;
-  padding-right: 2rem !important;
-}
-
-/* Remove limites de largura que o tema pode impor */
-.container-xl, .container-lg, .container-md, .container-sm, .container {
-  max-width: 100% !important;
-  width: 100% !important;
   padding-left: 2rem !important;
   padding-right: 2rem !important;
 }
